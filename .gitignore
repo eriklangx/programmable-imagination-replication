@@ -1,0 +1,6 @@
+csaszar_repo/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+.venv/
+venv/

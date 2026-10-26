@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this notebook, please cite it as below, together with Csaszar (2026)."
+title: "Replication notebook for: When Artificial Intelligence Makes Entrepreneurial Imagination Programmable"
+abstract: "Re-analysis of the records released with Csaszar (2026), Conceptual Search: A Generative View of Entrepreneurial Imagination, Strategic Entrepreneurship Journal."
+type: software
+repository-code: "https://github.com/eriklangx/programmable-imagination-replication"
+authors:
+  - family-names: "Lang"
+    given-names: "Erik"
+  - family-names: "Foss"
+    given-names: "Nicolai J."
+license: MIT
+references:
+  - type: article
+    title: "Conceptual Search: A Generative View of Entrepreneurial Imagination"
+    authors:
+      - family-names: "Csaszar"
+        given-names: "Felipe A."
+    journal: "Strategic Entrepreneurship Journal"
+    year: 2026
+    doi: "10.1002/sej.70055"
